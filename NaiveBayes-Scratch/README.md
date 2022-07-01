@@ -1,4 +1,6 @@
 # NaiveBayesClassifier-Scratch
-Designed Naive-Bayes Classifier from scratch and found out its accuracy.
 
-This Assignment was done under Prof. Apurba Das (Data Mining course).
+**DATASET**: [Cars](https://github.com/07nikhilraj/DataMining-Assignments/blob/master/NaiveBayes-Scratch/Cars.csv)
+
+* Designed Naive-Bayes Classifier from scratch and found out its accuracy.
+
