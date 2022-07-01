@@ -5,5 +5,5 @@ Given repo consists of two folder:
 * **NaiveBayes-Scratch**: Created Naive Bayes function from scratch to predict target variable. Operated over "Cars" dataset.
 
 These Assignments were done under Prof. Apurba Das (Data Mining course).
-----
-_Under Progress._
+
+----- _Under Progress._
